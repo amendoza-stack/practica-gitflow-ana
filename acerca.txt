@@ -1,0 +1,10 @@
+El siguiente repositorio, contengan la practica para la finalizacion del curso de GITHub. Aplicando la Metodologia de trabajo GitFlow. 
+
+main,
+develop,
+feature/*,
+hotfix/*
+release/*
+
+Como practica de aplicacion de conocimientos de Git en el desarrollo de software
+

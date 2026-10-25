@@ -8,3 +8,4 @@ release/*
 
 Como practica de aplicacion de conocimientos de Git en el desarrollo de software
 
+Confirma la nueva version V1.0.0
